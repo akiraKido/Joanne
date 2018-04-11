@@ -1,0 +1,10 @@
+﻿public class Console
+{
+    public static void WriteLine(string message)
+    {
+        embeded
+        {
+            console.log(message);
+        }
+    }
+}
