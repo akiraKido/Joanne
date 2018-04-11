@@ -1,0 +1,3 @@
+[submodule "submodules/CommandLineOptionsMapper"]
+	path = submodules/CommandLineOptionsMapper
+	url = https://github.com/akiraKido/CommandLineOptionsMapper.git
